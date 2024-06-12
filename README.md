@@ -15,7 +15,7 @@ This repository contains toy [ImPlot](https://github.com/epezent/implot) applica
 ```shell
 mkdir root
 cd root
-git clone https://github.com/epezent/implot_demos
+git clone https://github.com/Zabardast/implot_demos_linux.git
 git clone https://github.com/epezent/implot
 git clone https://github.com/ocornut/imgui
 ```
